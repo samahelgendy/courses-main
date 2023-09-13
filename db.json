@@ -1,0 +1,376 @@
+{
+  "courses": [
+    {
+      "id": "1",
+      "name": "The Complete Web Developer Course 3.0",
+      "name_ar" :"الدورة الكاملة لمطوري الويب 3.0",
+      "category": "Web Development",
+      "category_ar": "تطوير الشبكة",
+      "Instructors": "Rob Percival",
+      "photo": "https://img-c.udemycdn.com/course/240x135/764164_de03_5.jpg",
+      "discretion": "Learn Web Development in 2023! Build apps, website, projects using HTML, CSS, Javascript, PHP, Python, MySQL & more!",
+      "What you'll learn": [
+        "Build websites and webapps",
+        "Get a job as a junior web developer",
+        "Start your own online business.",
+        "Be proficient with databases and server-side languages.",
+        "Build HTML-based mobile apps.",
+        "Bid for projects on freelance websites.",
+        "Be a comfortable front-end developer"
+      ],
+      "rate": "4.5",
+      "price": "179",
+      "priceOld": "200",
+      "price_ar": "١٧٩",
+      "priceOld_ar": "٢٠٠",
+      "url-link": "https://www.udemy.com/course/the-complete-web-developer-course-2",
+      "course includes": [
+        "31 hours on-demand video",
+        "Assignments",
+        "36 articles",
+        "104 downloadable resources",
+        "Access on mobile and TV"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "The Web Developer Bootcamp 2023",
+      "name_ar": "المعسكر التدريبي لمطوري الويب ٢٠٢٣",
+      "category": "Web Development",
+      "category_ar": "تطوير الشبكة",
+      "Instructors": "Colt Steele",
+      "photo": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
+      "discretion": "10 Hours of React just added. Become a Developer With ONE course - HTML, CSS, JavaScript, React, Node, MongoDB and More!",
+      "What you'll learn": [
+        "The ins and outs of HTML5, CSS3, and Modern JavaScript for 2021",
+        "Create responsive, accessible, and beautiful layouts",
+        "Continue to learn and grow as a developer, long after the course ends.",
+        "Create a complicated yelp-like application from scratch.",
+        "Make REAL web applications using cutting-edge technologies.",
+        "Recognize and prevent common security exploits like SQL-Injection & XSS.",
+        "Create a blog application from scratch using Node, Express, and MongoDB."
+      ],
+      "rate": "4.7",
+      "price": "400",
+      "priceOld": "350",
+      "price_ar": "٤٠٠",
+      "priceOld_ar": "٣٥٠",
+      "url-link": "https://www.udemy.com/course/the-web-developer-bootcamp/",
+      "course includes": [
+        "73.5 hours on-demand video",
+        "62 coding exercises",
+        "55 articles",
+        "133 downloadable resources",
+        "Access on mobile and TV"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "The Complete JavaScript Course 2023: From Zero to Expert!",
+      "category": "Web Development",
+      "name_ar": "دورة جافا سكريبت الكاملة ٢٠٢٣: من الصفر إلى الخبير!",
+      "category_ar": "تطوير الشبكات",
+      "Instructors": "Jonas Schmedtmann",
+      "photo": "https://img-c.udemycdn.com/course/240x135/625204_436a_3.jpg",
+      "discretion": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!",
+      "What you'll learn": [
+        "Become an advanced, confident, and modern JavaScript developer from scratch",
+        "Become job-ready by understanding how JavaScript really works behind the scenes",
+        "JavaScript fundamentals: variables, if/else, operators, boolean logic, functions, arrays, objects, loops, strings, etc..",
+        "Modern OOP: Classes, constructors, prototypal inheritance, encapsulation, etc.",
+        "Build 6 beautiful real-world projects for your portfolio (not boring toy apps).",
+        "Modern ES6+ from the beginning: arrow functions, destructuring, spread operator, optional chaining (ES2020), etc.",
+        "Complex concepts like the 'this' keyword, higher-order functions, closures, etc.",
+        "How to architect your code using flowcharts and common patterns",
+        "Practice your skills with 50+ challenges and assignments (solutions included)",
+        "Course pathways: design your unique learning path according to your goals!"
+      ],
+      "rate": "4.7",
+      "price": "269",
+      "priceOld": "320",
+      "price_ar": "٢٦٩",
+      "priceOld_ar": "٣٢٠",
+      "url-link": "https://www.udemy.com/course/the-complete-javascript-course/",
+      "course includes": [
+        "68.5 hours on-demand video",
+        "8 coding exercises",
+        "22 articles",
+        "18 downloadable resources",
+        "Access on mobile and TV"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "TypeScript for Professionals - 2023 Edition",
+      "category": "Web Development",
+      "name_ar": "TypeScript للمحترفين - إصدار ٢٠٢٣",
+      "category_ar": "تطوير الشبكات",
+      "Instructors": "Basarat Ali Syed",
+      "photo": "https://img-c.udemycdn.com/course/240x135/3387966_7b82_2.jpg",
+      "discretion": "Learn all about the TypeScript type system - taught by a Microsoft MVP",
+      "What you'll learn": [
+        "Use TypeScript at your day to day job",
+        "Use Types for annotating any JavaScript Object",
+        "Create Complex Type Utility Functions.",
+        "Learn the Basics of TypeScript's Type System.",
+        "Learn Advanced TypeScript concepts"
+      ],
+      "rate": "4.6",
+      "price": "149",
+      "priceOld": "210",
+      "price_ar": "١٤٩",
+      "priceOld_ar": "٢١٠",
+      "url-link": "https://www.udemy.com/course/typescript-for-professionals/#instructor-1",
+      "course includes": [
+        "3.5 hours on-demand video",
+        "Full lifetime access",
+        "22 articles",
+        "Access on mobile and TV"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "React - The Complete Guide 2023 (incl. React Router & Redux)",
+      "category": "Web Development",
+      "name_ar": "React - الدليل الكامل ٢٠٢٣ (بما في ذلك جهاز توجيه React وRedux)",
+      "category_ar": "تطوير الشبكات",
+      "Instructors": "Academind by Maximilian Schwarzmüller",
+      "photo": "https://img-c.udemycdn.com/course/240x135/1362070_b9a1_2.jpg",
+      "discretion": "Dive in and learn React.js from scratch! Learn React, Hooks, Redux, React Router, Next.js, Best Practices and way more!",
+      "What you'll learn": [
+        "Learn React from the ground up and finish the course as an advanced React developer",
+        "Join more than 750,000 students in this course & more than 2,500,000 students I taught across all my courses",
+        "Follow along locally or in a cloud development environment.",
+        "Manage complex state efficiently with React's Context API & React Redux.",
+        "Build multiple high-quality demo apps, including a fullstack app built with NextJSs",
+        "Build multiple demo projects & explore realistic examples"
+      ],
+      "rate": "4.6",
+      "price": "229",
+      "priceOld": "290",
+      "price_ar": "٢٢٩",
+      "priceOld_ar": "٢٩٠",
+      "url-link": "https://www.udemy.com/course/react-the-complete-guide-incl-redux/",
+      "course includes": [
+        "50.5 hours on-demand video",
+        "15 coding exercises",
+        "Assignments",
+        "58 articles",
+        "95 downloadable resources",
+        "Access on mobile and TV"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Adobe Photoshop CC – Essentials Training Course",
+      "category": "Photoshop",
+      "name_ar": "Adobe Photoshop CC – دورة تدريبية حول الأساسيات",
+      "category_ar": "مصور",
+      "Instructors": "Daniel Walter Scott",
+      "photo": "https://img-c.udemycdn.com/course/240x135/1747782_399b_3.jpg",
+      "discretion": "This Adobe Photoshop Essentials course will teach you Photoshop Retouching as well as Photoshop for graphic design.",
+      "What you'll learn": [
+        "You will be able to start earning money from your Photoshop Skills.",
+        "You will have over 20 of your own projects to add to your portfolio.",
+        "You will be able to mask anything… including the dreaded hair!",
+        "Create amazing typography.",
+        "You will be able to add Photoshop to your CV",
+        "You will create social media post images for Facebook, Instagram, Twitter, Pintrest & Youtube."
+      ],
+      "rate": "4.7",
+      "price": "110",
+      "priceOld": "140",
+      "price_ar": "١١٠",
+      "priceOld_ar": "١٤٠",
+      "url-link": "https://www.udemy.com/course/adobe-photoshop-cc-essentials-training-course/",
+      "course includes": [
+        "11 hours on-demand video",
+        "Assignments",
+        "65 downloadable resources",
+        "58 articles",
+        "95 downloadable resources",
+        "Access on mobile and TV"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Ultimate Adobe Photoshop Training: From Beginner to Pro",
+      "category": "Photoshop",
+      "name_ar": "التدريب النهائي على أدوبي فوتوشوب: من المبتدئين إلى المحترفين",
+      "category_ar": "مصور",
+      "Instructors": "Cristian Doru Barin",
+      "photo": "https://img-c.udemycdn.com/course/240x135/1046722_cbd7_6.jpg",
+      "discretion": "Master Adobe Photoshop CC without any previous knowledge with this easy-to-follow course",
+      "What you'll learn": [
+        "Design icons, business cards, illustrations, and characters",
+        "Use creative effects to design stunning text styles",
+        "Cut away a person from their background",
+        "Clean up face imperfections, improve and repair photos",
+        "Remove people or objects from photos",
+        "Master selections, layers, and working with the layers panel"
+      ],
+      "rate": "4.7",
+      "price": "330",
+      "priceOld": "380",
+      "price_ar": "٣٣٠",
+      "priceOld_ar": "٣٨٠",
+      "url-link": "https://www.udemy.com/course/ultimate-photoshop-training-from-beginner-to-pro/",
+      "course includes": [
+        "22 hours on-demand video",
+        "Assignments",
+        "65 downloadable resources",
+        "3 articles",
+        "243 downloadable resources",
+        "Access on mobile and TV"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Graphic Design Masterclass - Learn GREAT Design",
+      "category": "Graphic Design",
+      "name_ar": "دورة متقدمة في التصميم الجرافيكي - تعلم التصميم الرائع",
+      "category_ar": "التصميم الجرافيكي",
+      "Instructors": "Lindsay Marsh",
+      "photo": "https://img-c.udemycdn.com/course/240x135/1643044_e281_5.jpg",
+      "discretion": "The Ultimate Graphic Design Course Which Covers Photoshop, Illustrator, InDesign,Design Theory, Branding and Logo Design",
+      "What you'll learn": [
+        "Have a deep understanding of typography, color theory, photos, layout, blocking and other design theory and skills",
+        "Create logos and branding packages for potential clients",
+        "Master the pen tool, shape builder tool and other essential vector design tools in Adobe Illustrator.",
+        "Understand solid logo design and ad design principles to create compelling campaigns and logos",
+        "Understand and learn the essential tools and capabilities of Adobe Photoshop, Illustrator and InDesign",
+        "Learn photo editing and manipulation in Adobe Photoshop",
+        "How to create editorial spreads and magazine layouts using Adobe InDesign"
+      ],
+      "rate": "4.6",
+      "price": "179",
+      "priceOld": "299",
+      "price_ar": "١٧٩",
+      "priceOld_ar": "٢٩٩",
+      "url-link": "https://www.udemy.com/course/graphic-design-masterclass-everything-you-need-to-know/",
+      "course includes": [
+        "29 hours on-demand video",
+        "1 article",
+        "54 downloadable resources",
+        "Access on mobile and TV"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "How to Market Yourself as a Coach or Consultant",
+      "category": "Marketing",
+      "name_ar": "كيف تقوم بتسويق نفسك كمدرب أو مستشار",
+      "category_ar": "التسويق الالكترونى ",
+      "Instructors": "Debbie LaChusa",
+      "photo": "https://img-c.udemycdn.com/course/240x135/46538_aa04_10.jpg",
+      "discretion": "Learn a Proven, Step-by-Step Process You Can Use to Package, Brand, Market, & Sell Your Coaching or Consulting Services",
+      "What you'll learn": [
+        "How to identify your Ideal Clients so you know exactly who to market and sell to",
+        "How to create a Signature Program so you can stop selling your time or creating spec proposals",
+        "How to write Compelling Marketing Copy you can use to attract your ideal clients",
+        "How to uncover your ideal Niche based on your experience, expertise, skills, and the clients you can best help",
+        "How to develop a Core Marketing Message so you know exactly what to say in your marketing to attract your ideal clients",
+        "How to create a Unique, Authentic, and Compelling Brand that will set you apart from everyone else who does what you do",
+        "How to Generate Leads Online and Build an Email List of interested prospects",
+        "How to Track and Fine-tune your marketing so it continues to work better and better the longer you're in business",
+        "When the best time is to Add Services or Diversify your business"
+      ],
+      "rate": "4.8",
+      "price": "211",
+      "priceOld": "230",
+      "price_ar": "٢١١",
+      "priceOld_ar": "٢٣٠",
+      "url-link": "https://www.udemy.com/course/how-to-market-yourself-as-a-coach-or-consultant-z/",
+      "course includes": [
+        "5 hours on-demand video",
+        "4 articles",
+        "32 downloadable resources",
+        "Access on mobile and TV"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Digital Marketing: How to Generate Sales Leads",
+      "category": "Marketing",
+      "name_ar": "التسويق الرقمي: كيفية توليد عملاء محتملين للمبيعات",
+      "category_ar": "التسويق",
+      "Instructors": "Lawrence Howlett",
+      "photo": "https://img-c.udemycdn.com/course/240x135/302746_4125_3.jpg",
+      "discretion": "Learn How To Generate Leads With A Step-By-Step Workbook & Action Plan To Boost Your Sales in 2019",
+      "What you'll learn": [
+        "How to generate more leads for your business online",
+        "Generate leads from your website",
+        "Create content that attracts high quality leads and sales",
+        "Use email to generate business leads",
+        "Implement everything you've learnt with a step-by-step workbook",
+        "Understand your sales funnel and how to fill it",
+        "Optimise your website for search engines",
+        "Generate leads from social media"
+      ],
+      "rate": "4.6",
+      "price": "299",
+      "priceOld": "330",
+      "price_ar": "٢٩٩",
+      "priceOld_ar": "٣٣٠",
+      "url-link": "https://www.udemy.com/course/digital-lead-generation/",
+      "course includes": [
+        "10 hours on-demand video",
+        "34 mins on-demand audio",
+        "4 articles",
+        "8 downloadable resources",
+        "Access on mobile and TV",
+        "Full lifetime access"
+      ]
+    }
+  ],
+  "services": [
+    {
+      "id": "1seq",
+      "name": "كتابة وصف منتجات ابداعي",
+      "price": "٥٠ ر.س",
+      "description": "خدمة كتابة وصف منتجات ابداعية باختصار مهمة وضرورية وتحل مشكلة لدى اصحاب المتاجر الالكترونية حيث ان وصف المنتجات والخدمات شيء ضروري ويشكل نسبة كبيرة لاقتناع العميل وبذلك يزيد رغبته في الشراء وزيادة معدل الشراء لهذا المنتج ليزيد من مبيعات متجرك الالكتروني لا تتردد بطلب هذه الخدمة واختر عدد المنتجات التي تريد من فريقنا كتابة وصف ابداعي لها نحن مستعدون لنبحر في عالم كتابة الابداعات 💜 ",
+      "photo": "https://cdn.salla.sa/VnRrv/Kuo27OngcT8RcSCOr4erM1by1QsWVbyHd9K3Ji4s.jpg"
+    },
+    {
+      "id": "2seq",
+      "name": "وثيقة العمل الحر",
+      "price": "١٩٩ ر.س",
+      "description": "تأتي وثيقة العمل الحر في السعودية بمجموعة هائلة من المميزات وتحمل فوائد عدة لكافة أصحاب العمل الحر، ",
+      "photo": "https://cdn.salla.sa/VnRrv/Kuo27OngcT8RcSCOr4erM1by1QsWVbyHd9K3Ji4s.jpg"
+    },
+    {
+      "id": "3seq",
+      "name": "تصميم فيديو موشن جرافيك",
+      "price": "٢٩٩ ر.س",
+      "description": "اجعل قصتك تنبض بالحياة مع تصميم فيديو موشن جرافيك Motion Graphic Video ، يمكننا إنشاء رسومات متحركة مخصصة مصممة خصيصًا لرسالتك وإشراك جمهورك ، سيصنع المصممون ذوي الخبرة لدينا تجربة فيديو فريدة من نوعها ، يتم إنشاء تصميمات الفيديو الرسومية المتحركة الخاصة بنا باستخدام أحدث البرامج، مما يمنحنا القدرة على جعل رؤيتك تنبض بالحياة من خلال المرئيات والرسوم المتحركة المذهلة. ",
+      "photo": "https://cdn.salla.sa/VnRrv/3TjxVqLewPad56mXrMYVAawQ9790v2pC3kUQtEpO.jpg"
+    },
+    {
+      "id": "4seq",
+      "name": "تصميم شعار Logo",
+      "price": "١٬٢٥٠ ر.س",
+      "description": "شعارك هو الانطباع الأول لعملك - لذا تأكد من أنه انطباع جيد، من خلال خدمات تصميم شعار logo احترافي ، يمكنك إنشاء شعار فريد لا يُنسى يبرز من المنافسة ، سيعمل معك فريق المصممين ذوي الخبرة لدينا لصياغة شعار يجسد جوهر علامتك التجارية ببضع نقرات ، مع التصميمات المخصصة والمراجعات غير المحدودة والملكية الكاملة لحقوق الطبع والنشر، ابدأ اليوم لإنشاء شعار لافت للنظر لا يُنسى لعملك.",
+      "photo": "https://cdn.salla.sa/VnRrv/nkPONqAexXDY5d5fG2pvRmUlWRp67gYcFlKC7UU4.jpg"
+    },
+    {
+      "id": "5seq",
+      "name": "تصميم بوست اعلاني",
+      "price": "٦٥ ر.س",
+      "description": "هل تحتاج حساباتك الي تصاميم ؟ الآن فقط من خلال متجرنا يمكنك تصميم منشور اعلاني لأعمالك بسعر خرافي وجودة رهيبة ،هذا العرض خاص بتصاميم السوشيال ميديا ويسري على بوستات الانستقرام ، ستوري سناب شات ،تغريدات تويتر ،هيدر تويتر، بنرات المتاجر الإلكترونية ،وهايلايت الإنستقرام ،احصل الان لي هذه الخدمة الآن بسعر مميز .",
+      "photo": "https://cdn.salla.sa/VnRrv/btNy2EacIpVxSagkd3dEJowFTVYmkwmV0ueOGKwe.jpg"
+    },
+    {
+      "id": "6seq",
+      "name": "انشاء متجر على سلة بالمنتجات",
+      "price": "١٬٢٩٩ ر.س",
+      "description": "يمكنك إنشاء متجر بالمنتجات على سلة الالكترونية بشكل جذاب وآمن في دقائق ، ابدأ باستخدام أدوات التصميم البديهية التي تسهل تخصيص مظهر متجرك وأسلوبه واضافة المنتجات في سلة وخدمات وإدارة خيارات الدفع وغير ذلك الكثير ، أنشئ متجرًا احترافيًا عبر الإنترنت يحتوي على جميع الميزات التي تحتاجها لبدء البيع على الفور ، من خلال منصتنا سهلة الاستخدام.",
+      "photo": "https://cdn.salla.sa/VnRrv/YoBQyp0dBizhv2gpSn496iYEuFFZBmkeCvhdlon9.jpg"
+    }
+  ],
+  "users": [
+    {}
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

@@ -1,0 +1,33 @@
+.menu-nav-bar{
+  background-color: #511d70;
+  display: flex;
+  flex-direction: column;
+  position: fixed;
+  top:0;
+  right:0;
+  width: 80%;
+  height:100% ;
+  z-index: 1000;
+}
+.menu-nav-bar li {
+  width: 100%;
+  height:10%;
+  margin: 0;
+  padding-right:10px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: start;
+  color:white;
+}
+.menu-nav-bar li::before{
+  content: '';
+  width: 100%;
+  height: 2px;
+  color:#fff;
+  border:1px solid red;
+  position: absolute;
+  top:80px;
+  right: 0;
+  margin:0;
+  padding: 0;
+}

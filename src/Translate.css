@@ -1,0 +1,14 @@
+.selectLang{
+    position: absolute ;
+     top: 120px  ;
+     left: 50%;
+     transform: translateX(-50%);
+     
+ } 
+ .digitalMark{
+    margin-top: 100px;
+}
+
+
+
+
